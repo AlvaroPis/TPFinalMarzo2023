@@ -1,0 +1,12 @@
+Matematicas,Matematicas
+Ingles,Ingles Avanzado
+Frances,Frances
+Ingles,Ingles
+Ingenieria,Ingenieria
+Quimica,Quimica
+Literatura,Literatura
+Fisica,Fisica
+Tranquilidad,Tranquilidad
+Milanesa,Milanesa
+Rea,Rea
+Gimnasia,Gimnasia Artistica

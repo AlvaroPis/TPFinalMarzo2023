@@ -1,0 +1,14 @@
+E:\Users\alvar\source\repos\FinalMarzo\bin\Debug\FinalMarzo.exe.config
+E:\Users\alvar\source\repos\FinalMarzo\bin\Debug\FinalMarzo.exe
+E:\Users\alvar\source\repos\FinalMarzo\bin\Debug\FinalMarzo.pdb
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.csproj.AssemblyReference.cache
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.Form1.resources
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.ListadoAlumnos.resources
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.ListadoMaterias.resources
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.ListaProfesores.resources
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.Properties.Resources.resources
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.csproj.GenerateResource.cache
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.csproj.CoreCompileInputs.cache
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.exe
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.pdb
+E:\Users\alvar\source\repos\FinalMarzo\obj\Debug\FinalMarzo.ListadoCursos.resources

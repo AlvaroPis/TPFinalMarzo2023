@@ -1,0 +1,13 @@
+44908,Alvaro,Pistelli,41489283,Geografia ,Pedro
+44908,Alvaro,Pistelli,41489283,Geografia ,Pedro
+44908,Alvaro,Pistelli,41489283,Geografia ,Pedro
+44908,Alvaro,Pistelli,41489283,Geografia ,Pedro
+44908,Alvaro,Pistelli,41489283,Geografia ,Pedro
+44908,Alvaro,Pistelli,41489283,Matematicas,a
+44908,Alvaro,Pistelli,41489283,Matematicas,Pedro
+44908,Alvaro,Pistelli,41489283,Matematicas,Pedro
+49999,Pepe,Caro,12345678,Matematicas,Juan
+7777,Carolina,Exdee,41489286,Matematicas,Pedro
+4715,Susana,Gimenez,45654561,Quimica,Pedro
+4715,Susana,Gimenez,45654561,Matematicas,Pedro
+4715,Susana,Gimenez,45654561,Rea,Pedro
